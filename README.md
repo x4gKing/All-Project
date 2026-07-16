@@ -16,6 +16,7 @@
 | **PasarGuard** | پنل مدیریت پاسارگارد | [x4gKing/PasarGuard](https://github.com/x4gKing/PasarGuard) |
 | **Marzban Panel** | پنل مدیریت مرزبان | [x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel) |
 | **Free Panel** | پنل رایگان | [x4gKing/Free-Panel](https://github.com/x4gKing/Free-Panel) |
+| **Telegram-Proxy** | پروکسی تلگرام | [x4gKing/Telegram-Proxy](https://github.com/x4gKing/Telegram-Proxy) |
 
 ## 🖥️ نودها (Nodes)
 
