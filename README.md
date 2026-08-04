@@ -33,6 +33,7 @@
 | **3x-ui** | نسخه‌ی قدیمی سنایی (3x-ui) | [x4gKing/3x-ui](https://github.com/x4gKing/3x-ui) |
 | **3x-ui-multi** | نسخه‌ی مولتی لوکین (3x-ui-multi) | [x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi) |
 | **Amnezia VPN Config** | کانفیگ WireGuard | [x4gKing/Amnezia-VPN-Config](https://github.com/x4gKing/Amnezia-VPN-Config) |
+| **bot-telegram** | ربات تلگرام  | [x4gKing/bot-telegram](https://github.com/x4gKing/bot-telegram) |
 
 ---
 
